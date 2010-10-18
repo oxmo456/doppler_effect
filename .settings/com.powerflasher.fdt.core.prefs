@@ -9,5 +9,5 @@ com.powerflasher.fdt.core.PassSwcs=true
 com.powerflasher.fdt.core.PlayerVersion=10
 com.powerflasher.fdt.core.ProjectTypeHint=AS 3
 com.powerflasher.fdt.core.Runtime=Flash_Player
-com.powerflasher.fdt.core.SdkName=Flex 3.3
+com.powerflasher.fdt.core.SdkName=Flex 4.0
 eclipse.preferences.version=1
